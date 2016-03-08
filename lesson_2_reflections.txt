@@ -18,3 +18,6 @@ How do the diagrams help you visualize the branch structure?
 
 the diagrams give you a better understanding through visual aid so you can think about which branch is attached to the master and which times.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When you merge two branches together, you put both commits into a single branch. 
