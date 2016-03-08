@@ -9,3 +9,7 @@ Staging area is where files need to be commited are while working directory and 
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can use git status to see which change is ready to commit. If there are more than one, it would tell you.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Some situations would be if you have different languages or experimental features. Branches would allow different versions of a program to track its progress and merge them if the change works.
