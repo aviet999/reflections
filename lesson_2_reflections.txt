@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 Staging area is where files need to be commited are while working directory and repository are where files are actually located commited or not.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can use git status to see which change is ready to commit. If there are more than one, it would tell you.
