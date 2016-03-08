@@ -13,3 +13,8 @@ You can use git status to see which change is ready to commit. If there are more
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Some situations would be if you have different languages or experimental features. Branches would allow different versions of a program to track its progress and merge them if the change works.
+
+How do the diagrams help you visualize the branch structure?
+
+the diagrams give you a better understanding through visual aid so you can think about which branch is attached to the master and which times.
+
